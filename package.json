@@ -1,9 +1,9 @@
 {
-  "name": "@rhangai/vue-di",
-  "version": "0.3.4",
+  "name": "@hsravat-4590/vue-di",
+  "version": "0.4.0",
   "description": "Dependency injection for vue using tsyringe",
-  "repository": "https://github.com/rhangai/vue-di.git",
-  "author": "rhangai <hangai.renan@gmail.com>",
+  "repository": "https://github.com/hsravat-4590/vue-di.git",
+  "author": "hsravat-4590 <hanzalah.ravat@gmail.com>",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "license": "MIT",
