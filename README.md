@@ -1,4 +1,4 @@
-# @rhangai/vue-di
+# @hsravat-4590/vue-di
 
 Dependency Injection for vue, using [tsryinge](https://github.com/microsoft/tsyringe)
 
